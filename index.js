@@ -1,3 +1,4 @@
+//Taken from http://electron.atom.io/docs/tutorial/quick-start/
 const electron = require('electron');
 
 //Module to control application life
